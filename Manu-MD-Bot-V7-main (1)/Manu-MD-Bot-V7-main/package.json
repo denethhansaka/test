@@ -4,7 +4,7 @@
   "description": "ᴅᴇɴᴇᴛʜ-ᴍᴅ ʙʏ ᴅᴇɴᴇᴛʜ ʜᴀɴꜱᴀᴋᴀ ᴋᴇᴇʀᴛʜɪʀᴀᴛʜɴᴀ",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name MANU-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name DENETH-MD",
     "stop": "pm2 stop DENETH-MD",
     "restart": "pm2 restart DENETH-MD"
   },
